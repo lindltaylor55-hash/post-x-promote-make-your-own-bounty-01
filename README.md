@@ -1,8 +1,8 @@
 # Promote make.fun's Make-Your-Own-Bounty Post on X
 
-[![make.fun](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/badge.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
-[![Rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/lindltaylor55-hash/post-x-promote-make-your-own-bounty-01/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
-[![Reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/lindltaylor55-hash/post-x-promote-make-your-own-bounty-01/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
+[![make.fun · post-x-promote-make-your-own-bounty-01](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/lindltaylor55-hash/post-x-promote-make-your-own-bounty-01/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/lindltaylor55-hash/post-x-promote-make-your-own-bounty-01/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
 
 This entry promotes make.fun's make-your-own-bounty post on X. The entry is a
 quote post from [@theseco87176158](https://x.com/theseco87176158) quoting
